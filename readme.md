@@ -10,20 +10,20 @@ npm run dev
 
 
 
-![Alt text](<assets/Screenshot (17).png>)
+![Alt text](<client/src/assets/Screenshot (17).png>)
+
+
+******************************************|
+
+
+
+![Alt text](<client/src/assets/Screenshot (18).png>)
 
 
 ******************************************
 
 
-
-![Alt text](<assets/Screenshot (18).png>)
-
-
-******************************************
-
-
-![Alt text](<assets/Screenshot (19).png>)
+![Alt text](<client/src/assets/Screenshot (19).png>)
 
 
 
